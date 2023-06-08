@@ -2,7 +2,7 @@
 
 package homework._001;
 
-public class task_002 {
+public class task_02 {
     public static void main(String[] args) {
         for (int i = 2; i < 1000; i++) {
             int count = 0;
